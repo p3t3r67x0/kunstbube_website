@@ -1,0 +1,59 @@
+<template>
+<div class="relative flex flex-col bg-gray-200 text-gray-700 min-h-screen antialiased">
+  <nav class="bg-gray-200 py-3">
+    <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl pt-3 pb-4">
+      <ul class="flex flex-wrap text-xl">
+        <li class="mr-6">
+          <a href="#">Start</a>
+        </li>
+        <li class="mr-6">
+          <a href="#">About</a>
+        </li>
+        <li class="mr-6">
+          <a href="#">Gallerie</a>
+        </li>
+        <li class="mr-6">
+          <a href="#">Nichts</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="relative">
+    <img src="/images/background-kunstbube.jpg" alt="kunstbube" fetchpriority="high">
+    <div class="absolute top-1/2 left-1/2">
+      <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-80">
+        <h1 class="bg-white text-8xl font-bold p-8">
+          kunst<br>
+          bube.
+        </h1>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid place-content-center h-48 bg-cyan-500">
+    <p class="text-white text-5xl">Der Kunstbube aus der Kunststube</p>
+  </div>
+
+  <main class="flex-grow h-96">
+    <slot />
+  </main>
+
+  <footer class="bg-gray-600 justify-end text-center">
+    <p class="text-white text-sm tracking-wide py-8">
+      powered with
+      <span class="text-red-500" role="img" aria-label="Love">
+        ♥
+      </span>
+      by <a href="https://kunstbube.com">kunstbube.</a>
+    </p>
+  </footer>
+</div>
+</template>
+
+<script>
+export default {}
+</script>
+
+<style lang="css" scoped>
+</style>
