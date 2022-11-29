@@ -20,7 +20,7 @@
       </div>
     </nav>
 
-    <img src="/images/background-kunstbube.jpg" class="h-screen object-cover w-full" alt="kunstbube" fetchpriority="high">
+    <img src="/images/background-kunstbube.jpg" class="h-1/2 object-cover w-full" alt="kunstbube" fetchpriority="high">
 
     <div class="absolute top-1/2 left-1/2">
       <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-28 sm:w-48 md:w-80">
@@ -32,11 +32,11 @@
     </div>
   </div>
 
-  <div class="grid place-content-center h-24 md:h-48 bg-cyan-500 mb-2 md:mb-4">
+  <div class="grid place-content-center h-18 md:h-48 bg-cyan-500 mb-2 md:mb-4">
     <p class="text-white text-2xl md:text-5xl">Der Maler mit der Kunsttube</p>
   </div>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-2 sm:gap-3 md:gap-4 px-2 sm:px-0">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 sm:gap-3 md:gap-4 px-2 sm:px-0">
     <div class="overflow-hidden">
       <img src="/images/20211024_182054.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
