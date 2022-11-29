@@ -1,7 +1,7 @@
 <template>
-<div class="relative flex flex-col bg-gray-800 text-white min-h-screen antialiased">
+<div class="relative flex flex-col text-gray-700 min-h-screen antialiased">
   <div class="relative">
-    <nav class="absolute top-0 inset-x-0 z-50 p-3 sm:px-0">
+    <nav class="absolute top-0 inset-x-0 z-50 bg-gray-800 p-3 sm:px-0">
       <div class="text-white flex justify-between mx-auto max-w-screen-xl md:pt-3 md:pb-4">
         <ul class="flex flex-wrap sm:text-xl">
           <li class="mr-6">
