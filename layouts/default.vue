@@ -1,6 +1,6 @@
 <template>
 <div class="relative flex flex-col bg-gray-200 text-gray-700 min-h-screen antialiased">
-  <div class="relative -translate-y-3">
+  <div class="relative">
     <nav class="absolute top-0 inset-x-0 z-50 bg-gray-200 p-3 sm:px-0">
       <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl md:pt-3 md:pb-4">
         <ul class="flex flex-wrap sm:text-xl">
