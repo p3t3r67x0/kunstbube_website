@@ -78,7 +78,7 @@
     </div>
   </div>
 
-  <main class="flex-grow h-96 px-2 sm:px-0">
+  <main class="flex-grow bg-gray-800 h-96 p-2 text-white">
     <slot />
   </main>
 
