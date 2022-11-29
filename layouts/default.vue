@@ -20,7 +20,7 @@
   </nav>
 
   <div class="relative">
-    <img src="/images/background-kunstbube.jpg" class="h-screen object-cover w-full" alt="kunstbube" fetchpriority="high">
+    <img src="/images/background-kunstbube.jpg" class="h-4/6 object-cover w-full" alt="kunstbube" fetchpriority="high">
     <div class="absolute top-1/2 left-1/2">
       <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-28 sm:w-48 md:w-80">
         <h1 class="bg-white text-3xl sm:text-6xl md:text-8xl font-bold p-4 sm:p-6 md:p-8">
