@@ -1,6 +1,6 @@
 <template>
 <div class="relative flex flex-col bg-gray-200 text-gray-700 min-h-screen antialiased">
-  <nav class="bg-gray-200 py-3">
+  <nav class="bg-gray-200 p-3 sm:px-0">
     <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl md:pt-3 md:pb-4">
       <ul class="flex flex-wrap sm:text-xl">
         <li class="mr-6">
@@ -22,7 +22,7 @@
   <div class="relative">
     <img src="/images/background-kunstbube.jpg" class="min-h-96 object-cover w-full" alt="kunstbube" fetchpriority="high">
     <div class="absolute top-1/2 left-1/2">
-      <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-32 sm:w-48 md:w-80">
+      <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-28 sm:w-48 md:w-80">
         <h1 class="bg-white text-3xl sm:text-6xl md:text-8xl font-bold p-4 sm:p-6 md:p-8">
           kunst<br>
           bube.
@@ -31,7 +31,7 @@
     </div>
   </div>
 
-  <div class="grid place-content-center h-48 bg-cyan-500 mb-2 md:mb-4">
+  <div class="grid place-content-center h-24 md:h-48 bg-cyan-500 mb-2 md:mb-4">
     <p class="text-white text-2xl md:text-5xl">Der Maler mit der Kunsttube</p>
   </div>
 
