@@ -1,6 +1,6 @@
 <template>
 <div class="relative flex flex-col bg-gray-200 text-gray-700 min-h-screen antialiased">
-  <nav class="bg-gray-200 py-3">
+  <nav class="bg-gray-200 p-2 sm:px-0 sm:py-3">
     <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl pt-3 pb-4">
       <ul class="flex flex-wrap text-xl">
         <li class="mr-6">
@@ -20,10 +20,10 @@
   </nav>
 
   <div class="relative">
-    <img src="/images/background-kunstbube.jpg" alt="kunstbube" fetchpriority="high">
+    <img src="/images/background-kunstbube.jpg" class="min-h-96 object-cover w-full" alt="kunstbube" fetchpriority="high">
     <div class="absolute top-1/2 left-1/2">
-      <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-80">
-        <h1 class="bg-white text-8xl font-bold p-8">
+      <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-48 sm:w-72 md:w-80">
+        <h1 class="bg-white text-3xl sm:text-6xl md:text-8xl font-bold p-4 sm:p-6 md:p-8">
           kunst<br>
           bube.
         </h1>
@@ -77,12 +77,12 @@
     </div>
   </div>
 
-  <main class="flex-grow h-96">
+  <main class="flex-grow h-96 px-2 sm:px-0">
     <slot />
   </main>
 
   <footer class="bg-gray-600 justify-end text-center">
-    <p class="text-white text-sm tracking-wide py-8">
+    <p class="text-white text-sm tracking-wide py-3 sm:py-6 md:py-8">
       powered with
       <span class="text-red-500" role="img" aria-label="Love">
         ♥
