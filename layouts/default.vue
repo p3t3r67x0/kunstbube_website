@@ -1,26 +1,27 @@
 <template>
 <div class="relative flex flex-col bg-gray-200 text-gray-700 min-h-screen antialiased">
-  <nav class="bg-gray-200 p-3 sm:px-0">
-    <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl md:pt-3 md:pb-4">
-      <ul class="flex flex-wrap sm:text-xl">
-        <li class="mr-6">
-          <a href="#">Start</a>
-        </li>
-        <li class="mr-6">
-          <a href="#">About</a>
-        </li>
-        <li class="mr-6">
-          <a href="#">Gallerie</a>
-        </li>
-        <li class="mr-6">
-          <a href="#">Nichts</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-
   <div class="relative">
-    <img src="/images/background-kunstbube.jpg" class="h-4/6 object-cover w-full" alt="kunstbube" fetchpriority="high">
+    <nav class="absolute top-0 inset-x-0 bg-gray-200 p-3 sm:px-0">
+      <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl md:pt-3 md:pb-4">
+        <ul class="flex flex-wrap sm:text-xl">
+          <li class="mr-6">
+            <a href="#">Start</a>
+          </li>
+          <li class="mr-6">
+            <a href="#">About</a>
+          </li>
+          <li class="mr-6">
+            <a href="#">Gallerie</a>
+          </li>
+          <li class="mr-6">
+            <a href="#">Nichts</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <img src="/images/background-kunstbube.jpg" class="h-screen object-cover w-full" alt="kunstbube" fetchpriority="high">
+
     <div class="absolute top-1/2 left-1/2">
       <div class="bg-white -translate-x-1/2 -translate-y-1/2 w-28 sm:w-48 md:w-80">
         <h1 class="bg-white text-3xl sm:text-6xl md:text-8xl font-bold p-4 sm:p-6 md:p-8">
