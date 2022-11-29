@@ -36,7 +36,7 @@
     <p class="text-white text-xl md:text-5xl p-3">kunstbube. mit der kunst.tube</p>
   </div>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 sm:gap-3 md:gap-4 px-2 sm:px-0">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 sm:gap-3 md:gap-4 px-2 sm:px-0 mb-2 md:mb-4">
     <div class="overflow-hidden">
       <img src="/images/20211024_182054.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
