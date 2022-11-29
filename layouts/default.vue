@@ -1,8 +1,8 @@
 <template>
 <div class="relative flex flex-col bg-gray-200 text-gray-700 min-h-screen antialiased">
   <nav class="bg-gray-200 p-2 sm:px-0 sm:py-3">
-    <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl pt-3 pb-4">
-      <ul class="flex flex-wrap text-xl">
+    <div class="text-gray-800 flex justify-between mx-auto max-w-screen-xl md:pt-3 md:pb-4">
+      <ul class="flex flex-wrap sm:text-xl">
         <li class="mr-6">
           <a href="#">Start</a>
         </li>
