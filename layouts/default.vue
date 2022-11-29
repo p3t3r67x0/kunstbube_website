@@ -35,45 +35,45 @@
     <p class="text-white text-5xl">Der Maler mit der Kunsttube</p>
   </div>
 
-  <div class="grid grid-cols-3 gap-4">
-    <div class="overflow-hidden bg-teal-500">
-      <img src="/images/20211024_182054.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4">
+    <div class="overflow-hidden">
+      <img src="/images/20211024_182054.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
-    <div class="overflow-hidden bg-teal-500">
-      <img src="/images/20210221_105904.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210221_105904.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
-    <div class="overflow-hidden bg-amber-500">
-      <img src="/images/20210711_232308.jpg" class="h-96 object-cover w-full" alt="kunstbube">
-    </div>
-
-    <div class="overflow-hidden bg-teal-500">
-      <img src="/images/20210708_233735.jpg" class="h-96 object-cover w-full" alt="kunstbube">
-    </div>
-    <div class="overflow-hidden bg-purple-500">
-      <img src="/images/20210710_133910.jpg" class="h-96 object-cover w-full" alt="kunstbube">
-    </div>
-    <div class="overflow-hidden bg-pink-500">
-      <img src="/images/20210708_233630.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210711_232308.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
 
-    <div class="overflow-hidden bg-yellow-500">
-      <img src="/images/20210210_141508.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210708_233735.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
-    <div class="overflow-hidden bg-green-600">
-      <img src="/images/20210713_181816.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210710_133910.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
-    <div class="overflow-hidden bg-emerald-500">
-      <img src="/images/20210714_095740.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210708_233630.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
 
-    <div class="overflow-hidden bg-teal-500">
-      <img src="/images/20210219_192236.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210210_141508.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
-    <div class="overflow-hidden bg-teal-500">
-      <img src="/images/20210710_134029.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210713_181816.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
-    <div class="overflow-hidden bg-teal-500">
-      <img src="/images/20210211_204515.jpg" class="h-96 object-cover w-full" alt="kunstbube">
+    <div class="overflow-hidden">
+      <img src="/images/20210714_095740.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
+    </div>
+
+    <div class="overflow-hidden">
+      <img src="/images/20210219_192236.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
+    </div>
+    <div class="overflow-hidden">
+      <img src="/images/20210710_134029.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
+    </div>
+    <div class="overflow-hidden">
+      <img src="/images/20210211_204515.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
   </div>
 
