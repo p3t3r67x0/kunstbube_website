@@ -35,7 +35,7 @@
     <p class="text-white text-5xl">Der Maler mit der Kunsttube</p>
   </div>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-2 sm:gap-3 md:gap-4 px-2 sm:px-0">
     <div class="overflow-hidden">
       <img src="/images/20211024_182054.jpg" class="h-48 sm:h-72 md:h-96 object-cover w-full" alt="kunstbube">
     </div>
