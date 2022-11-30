@@ -32,8 +32,14 @@
     </div>
   </div>
 
-  <div class="grid place-content-center md:min-h-48 bg-gray-800">
-    <p class="text-white text-xl md:text-5xl p-3">kunstbube. mit der kunst.tube</p>
+  <div class="md:min-h-48 bg-gray-800 p-3 md:py-6">
+    <div class="container mx-auto max-w-screen-xl">
+      <h2 class="text-gray-500 md:text-5xl mb-3">Was kann kunstbube.</h2>
+      <p class="text-gray-200 md:text-2xl">Moderne Kunst sollte für alle zugänglich und offen sein. Aus diesem Grund teile ich meine Werke in Online Gallerien zum vervielfältigen für jeden, für immer und kostenlos. Die
+        Originale stehen dem Sammler und Abenteurer zur Verfügung. Mein Malstil ist eher impulsiv und spontan. Ich betrachte eine weiße Leinwand wie eine Bühne, stelle mir eine Farbpalette zusammen und lade den Pinsel mit den Farben ein das
+        Theaterstück aufzuführen. Ich spiele mit der Leuchtkraft der Farben auf der Fläche und der Leichtigkeit des Wassers. Es entstehen so ungeahnte Texturen und Formen in vielen Schichten. In dieser Theateraufführung entsteht eine Tiefe von
+        ausdrucksstarken Protagonisten. Vielleicht werden Sie in dem ein oder anderen Werk Ihre eigene Uraufführung sehen.</p>
+    </div>
   </div>
 
   <div class="bg-gray-600 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 sm:gap-3 md:gap-4 px-2 sm:px-0 p-2 md:py-4">
